@@ -1,0 +1,7 @@
+equipment_id,type,last_calibration
+MON-01,fixed monitoring station,2023-03-01
+MON-02,fixed monitoring station,2023-09-15
+MON-03,mobile monitoring unit,2024-01-20
+MON-04,mobile monitoring unit,2024-06-10
+MON-05,handheld spectrum analyser,2024-02-05
+MON-06,handheld spectrum analyser,2025-01-12
